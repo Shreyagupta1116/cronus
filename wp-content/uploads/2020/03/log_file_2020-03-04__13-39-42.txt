@@ -1,0 +1,115 @@
+
+---Downloaded files---
+The import files for: Clinic were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = http://cronus.papermillconsultant.com
+Data file = /home/papermillconsult/cronus.papermillconsultant.com/wp-content/themes/apexclinic/inc/import/clinic/content.xml
+Widget file = /home/papermillconsult/cronus.papermillconsultant.com/wp-content/themes/apexclinic/inc/import/clinic/widgets.wie
+Customizer file = not defined!
+Redux files:
+apexclinic_theme_option -> /home/papermillconsult/cronus.papermillconsultant.com/wp-content/themes/apexclinic/inc/import/clinic/redux.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag First Aid
+[WARNING] Failed to import product_cat First Aid kit
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat B.P. Monitor
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag First Aid
+[WARNING] Failed to import product_cat First Aid kit
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat B.P. Monitor
+
+
+---Importing widgets---
+Widgets in Menu : 
+
+Navigation Menu - Creative - Imported
+Navigation Menu - Essential - Imported
+Navigation Menu - Appearance - Imported
+Navigation Menu - Classic Style - Imported
+Navigation Menu - Masonry Style - Imported
+Navigation Menu - List Style - Imported
+Navigation Menu - List No Image Style - Imported
+Navigation Menu - Standard Style - Imported
+Navigation Menu - Modern - Imported
+
+Sidebar : 
+
+Search - Search - Imported
+radiantthemes_recent_posts_widget - No Title - Site does not support widget
+Archives - Archives - Imported
+Tag Cloud - Tags - Imported
+
+apexclinic-product-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_products - Featured Products - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+
+Footer | #1 : 
+
+Image - No Title - Imported
+Text - No Title - Imported
+
+Footer | #2 : 
+
+Navigation Menu - Departments - Imported
+
+Footer | #3 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer | #4 : 
+
+Text - Head Office - Imported
+
+Hamburger | Sidebar : 
+
+Image - No Title - Imported
+Text - No Title - Imported
+radiantthemes_recent_posts_widget - No Title - Site does not support widget
+radiantthemes_contact_box_widget - No Title - Site does not support widget
+radiantthemes_social_widget - No Title - Site does not support widget
+
+General | Sidebar : 
+
+Text - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: apexclinic_theme_option finished successfully!
+
+---pt-ocdi/after_import---
+ Slider processed

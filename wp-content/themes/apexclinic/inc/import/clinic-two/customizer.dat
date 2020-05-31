@@ -1,0 +1,139 @@
+a:4:{s:8:"template";s:10:"apexclinic";s:4:"mods";a:2:{s:18:"nav_menu_locations";a:3:{s:3:"top";i:55;s:6:"footer";i:53;s:15:"full-width-menu";i:56;}s:18:"custom_css_post_id";i:8422;}s:7:"options";a:21:{s:22:"woocommerce_demo_store";s:2:"no";s:29:"woocommerce_demo_store_notice";s:79:"This is a demo store for testing purposes &mdash; no orders shall be fulfilled.";s:29:"woocommerce_shop_page_display";s:0:"";s:36:"woocommerce_category_archive_display";s:0:"";s:35:"woocommerce_default_catalog_orderby";s:10:"menu_order";s:27:"woocommerce_catalog_columns";i:4;s:30:"woocommerce_single_image_width";s:3:"600";s:33:"woocommerce_thumbnail_image_width";s:3:"300";s:30:"woocommerce_thumbnail_cropping";s:3:"1:1";s:43:"woocommerce_thumbnail_cropping_custom_width";s:1:"4";s:44:"woocommerce_thumbnail_cropping_custom_height";s:1:"3";s:34:"woocommerce_checkout_company_field";s:8:"optional";s:36:"woocommerce_checkout_address_2_field";s:8:"optional";s:32:"woocommerce_checkout_phone_field";s:8:"required";s:46:"woocommerce_checkout_highlight_required_fields";s:3:"yes";s:55:"woocommerce_checkout_terms_and_conditions_checkbox_text";s:44:"I have read and agree to the website [terms]";s:40:"woocommerce_checkout_privacy_policy_text";s:161:"Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].";s:26:"wp_page_for_privacy_policy";s:1:"3";s:25:"woocommerce_terms_page_id";s:0:"";s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:2904:"
+				.icon-hover > .vc_column-inner > .wpb_wrapper > .wpb_single_image{
+	transition: transform .3s ease-out;
+}
+.icon-hover:hover > .vc_column-inner > .wpb_wrapper > .wpb_single_image{
+	transform: translate(0, -10px);
+}
+
+.icon-hover .radiantthemes-iconbox{
+transition: transform .3s ease-out;
+}
+.icon-hover:hover .radiantthemes-iconbox{
+transform: translate(0, -10px);
+}
+
+.custom-box-shadow-2{
+       box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.12);
+}
+
+.box-shadow{
+   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.11);
+}
+
+
+.table>tbody>tr:first-child td{border-top:none!important;}
+.table>tbody>tr>td{
+    padding:14px 0px;
+    border-top: 1px solid rgba(255, 255, 255, 0.21) !important;
+    }
+.spacing-table>div>.table>tbody>tr>td{
+    padding:14px 14px;
+    
+}
+
+.wraper_header.style-twelve .header_main_action ul > li.header-cart-bar > .header-cart-bar-icon .cart-count {
+    background-color: #084e4d !important;
+}
+.wraper_header.style-twelve .header_main_action ul > li.header-cart-bar > .header-cart-bar-icon .cart-count{
+background-color: #fff !important;
+color: #4575bd;
+border: 2px solid #4575bd;
+line-height: 15px !important;
+}
+
+.facilities-image-left{
+width:658px;
+}
+
+
+.table-two>tbody>tr:first-child td{border-top:none!important;}
+.table-two>tbody>tr>td{
+    padding:14px 0px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.21) !important;
+    }
+.spacing-table>div>.table-two>tbody>tr>td{
+    padding:14px 14px;
+    
+}
+.facilities-image-left{
+    width:658px;
+}
+.table-two>tbody>tr:first-child td{border-top:none!important;}
+.table-two>tbody>tr>td{
+	padding: 6px 0;
+	border-bottom: none !important;
+	font-size: 17px;
+	color: #fff;
+}
+.spacing-table>div>.table-two>tbody>tr>td{
+    padding:14px 14px;
+    
+}
+.table-two{
+	width:100%;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+.table-two > tbody > tr:first-child td {
+    padding-top: 20px;
+}
+.table-two > tbody > tr:last-child td{
+    padding-bottom: 20px;
+}
+.doctor-video-content>div{
+max-width:616px;
+align-self: flex-end;
+float:right
+}
+.singel-girl-position{
+position:relative;
+top:-200px;
+}
+.contact-section{
+position:relative;
+}
+.contact-section .vc_col-sm-7:after{
+position:absolute;
+content:" ";
+height:100%;
+width:20%;
+background:#2986e2;
+right:-123px;
+top:0;
+}
+
+/* LARGE DESKTOP PART */
+@media screen and (min-width:1200px){
+}
+
+/* DESKTOP PART */
+@media screen and (min-width:992px) and (max-width:1199px){
+
+}
+
+/* TABLET LANDSCAPE PART */
+@media screen and (min-width:768px) and (max-width:991px){
+}
+
+/* TABLET PROTRAIT PART */
+@media screen and (min-width:480px) and (max-width:767px){
+.contact-section .vc_col-sm-7::after{
+display:none;
+}
+}
+
+/* SMART PHONE LANDSCAPE PART */
+@media screen and (min-width:321px) and (max-width:479px){
+.contact-section .vc_col-sm-7::after{
+display:none;
+}
+}
+
+/* SMART PHONE PROTRAIT PART */
+@media screen and (max-width:320px){
+.contact-section .vc_col-sm-7::after{
+display:none;
+}
+}
+		";}

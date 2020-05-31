@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<!-- generator="WordPress/4.9.8" created="2018-08-09 11:36" -->
+
+		<rss version="2.0"
+		     xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+		     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+		     xmlns:dc="http://purl.org/dc/elements/1.1/"
+		     xmlns:wp="http://wordpress.org/export/1.2/">
+			<channel>
+				<title>Apex Clinic - Medical Clinic WordPress Theme</title>
+				<link>https://themes.radiantthemes.com/apex-clinic/clinic</link>
+				<description></description>
+				<pubDate>Thu, 09 Aug 2018 11:36:33 +0000</pubDate>
+				<language>en-US</language>
+				<wp:wxr_version>1.2</wp:wxr_version>
+				<wp:base_site_url>https://themes.radiantthemes.com/apex-clinic/clinic</wp:base_site_url>
+				<wp:base_blog_url>https://themes.radiantthemes.com/apex-clinic/clinic</wp:base_blog_url>
+
+					<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[jhdsi76riwe]]></wp:author_login><wp:author_email><![CDATA[ramaprasad@rkwebsolutions.com]]></wp:author_email><wp:author_display_name><![CDATA[Richard Roe]]></wp:author_display_name><wp:author_first_name><![CDATA[Richard]]></wp:author_first_name><wp:author_last_name><![CDATA[Roe]]></wp:author_last_name></wp:author>
+				
+
+				<generator>https://wordpress.org/?v=4.9.8</generator>
+
+											<item>
+								<title>Monday</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/column/monday/</link>
+								<pubDate>Tue, 10 Jul 2018 06:09:06 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-column&#038;p=7934</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7934</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 06:09:06]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 06:09:06]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[monday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Tuesday</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/column/tuesday/</link>
+								<pubDate>Tue, 10 Jul 2018 06:09:42 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-column&#038;p=7935</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7935</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 06:09:42]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 06:09:42]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[tuesday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Wednesday</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/column/wednesday/</link>
+								<pubDate>Tue, 10 Jul 2018 06:15:43 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-column&#038;p=7936</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7936</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 06:15:43]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 06:15:43]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[wednesday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Thursday</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/column/thursday/</link>
+								<pubDate>Tue, 10 Jul 2018 06:16:11 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-column&#038;p=7937</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7937</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 06:16:11]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 06:16:11]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[thursday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Friday</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/column/friday/</link>
+								<pubDate>Tue, 10 Jul 2018 06:16:34 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-column&#038;p=7938</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7938</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 06:16:34]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 06:16:34]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[friday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Saturday</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/column/saturday/</link>
+								<pubDate>Tue, 10 Jul 2018 06:16:52 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-column&#038;p=7940</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7940</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 06:16:52]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 06:16:52]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[saturday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Sunday</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/column/sunday/</link>
+								<pubDate>Tue, 10 Jul 2018 06:17:16 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-column&#038;p=7941</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7941</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 06:17:16]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 06:17:16]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[sunday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Dental</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/event/dental/</link>
+								<pubDate>Tue, 10 Jul 2018 06:47:39 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-event&#038;p=7942</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7942</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 06:47:39]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 06:47:39]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[dental]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 13, Hall A]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(42,136,201)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(42,136,201, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(42,136,201, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(42,136,201)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 13, Hall A]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Primary Health Care</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/event/primary-health-care/</link>
+								<pubDate>Tue, 10 Jul 2018 08:28:03 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-event&#038;p=7943</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7943</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 08:28:03]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 08:28:03]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[primary-health-care]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(108, 200, 223)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 7, Hall D]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(108, 200, 223)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 7, Hall D]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Emergency</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/event/emergency/</link>
+								<pubDate>Tue, 10 Jul 2018 08:41:24 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-event&#038;p=7945</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7945</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 08:41:24]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 08:41:24]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[emergency]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(108,200,223, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(108,200,223)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 19, Hall E]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(108,200,223, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(108,200,223)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 19, Hall E]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Pediatrics</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/event/pediatrics/</link>
+								<pubDate>Tue, 10 Jul 2018 08:55:18 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-event&#038;p=7946</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7946</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 08:55:18]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 08:55:18]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[pediatrics]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86, 176, 210, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86, 176, 210)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 81, Hall C]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86, 176, 210, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86, 176, 210)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 81, Hall C]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Pulmonary</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/event/pulmonary/</link>
+								<pubDate>Tue, 10 Jul 2018 09:06:36 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-event&#038;p=7947</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7947</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 09:06:36]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 09:06:36]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[pulmonary]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 7, Hall A]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(112, 213, 188)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(112, 213, 188, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 7, Hall A]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(112, 213, 188)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(112, 213, 188, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>X-Ray</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/event/x-ray/</link>
+								<pubDate>Tue, 10 Jul 2018 09:29:13 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-event&#038;p=7948</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7948</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 09:29:13]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 09:29:13]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[x-ray]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 9, Hall C]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(108,200,223)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(108,200,223, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 9, Hall C]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(108,200,223)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(108,200,223, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Cardiology</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/event/cardiology/</link>
+								<pubDate>Tue, 10 Jul 2018 09:34:16 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-event&#038;p=7949</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7949</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 09:34:16]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 09:34:16]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[cardiology]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 7, Hall A]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86,176,210)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86,176,210, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 7, Hall A]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86,176,210)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86,176,210, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Traumotology</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/event/traumotology/</link>
+								<pubDate>Tue, 10 Jul 2018 09:51:05 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-event&#038;p=7950</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7950</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 09:51:05]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 09:51:05]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[traumotology]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 3, Hall H]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(42,136,201)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(42,136,201, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 3, Hall H]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(42,136,201)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(42,136,201, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Neurology</title>
+								<link>https://themes.radiantthemes.com/apex-clinic/clinic/timetable/event/neurology/</link>
+								<pubDate>Tue, 10 Jul 2018 09:58:33 +0000</pubDate>
+								<dc:creator><![CDATA[jhdsi76riwe]]></dc:creator>
+								<guid isPermaLink="false">https://themes.radiantthemes.com/apex-clinic/pediatric-clinic/?post_type=mp-event&#038;p=7951</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>7951</wp:post_id>
+								<wp:post_date><![CDATA[2018-07-10 09:58:33]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-07-10 09:58:33]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[neurology]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86,176,210, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86,176,210)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 5, Hall K]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86,176,210, 0.8)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(86,176,210)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[Office 5, Hall K]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+													<timeslot>
+							<column><![CDATA[7937]]></column>
+							<event><![CDATA[7943]]></event>
+							<event_start><![CDATA[08:00:00]]></event_start>
+							<event_end><![CDATA[10:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr.Jena Lambert]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7938]]></column>
+							<event><![CDATA[7943]]></event>
+							<event_start><![CDATA[08:00:00]]></event_start>
+							<event_end><![CDATA[10:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr.Jena Lambert]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7934]]></column>
+							<event><![CDATA[7945]]></event>
+							<event_start><![CDATA[11:00:00]]></event_start>
+							<event_end><![CDATA[14:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr Jeremy Mosley]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7940]]></column>
+							<event><![CDATA[7945]]></event>
+							<event_start><![CDATA[13:00:00]]></event_start>
+							<event_end><![CDATA[15:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr Jeremy Mosley]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7937]]></column>
+							<event><![CDATA[7945]]></event>
+							<event_start><![CDATA[16:00:00]]></event_start>
+							<event_end><![CDATA[19:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr Jeremy Mosley]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7934]]></column>
+							<event><![CDATA[7946]]></event>
+							<event_start><![CDATA[16:00:00]]></event_start>
+							<event_end><![CDATA[19:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr. Sarah Parker]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7935]]></column>
+							<event><![CDATA[7946]]></event>
+							<event_start><![CDATA[09:00:00]]></event_start>
+							<event_end><![CDATA[11:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr. Sarah Parker]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7940]]></column>
+							<event><![CDATA[7946]]></event>
+							<event_start><![CDATA[11:00:00]]></event_start>
+							<event_end><![CDATA[14:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr. Sarah Parker]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7935]]></column>
+							<event><![CDATA[7947]]></event>
+							<event_start><![CDATA[11:00:00]]></event_start>
+							<event_end><![CDATA[13:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr.John Johnes]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7938]]></column>
+							<event><![CDATA[7947]]></event>
+							<event_start><![CDATA[12:00:00]]></event_start>
+							<event_end><![CDATA[15:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr.John Johnes]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7935]]></column>
+							<event><![CDATA[7948]]></event>
+							<event_start><![CDATA[13:00:00]]></event_start>
+							<event_end><![CDATA[15:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr. Barbara N. Nieves]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7938]]></column>
+							<event><![CDATA[7948]]></event>
+							<event_start><![CDATA[10:00:00]]></event_start>
+							<event_end><![CDATA[12:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr. Barbara N. Nieves]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7936]]></column>
+							<event><![CDATA[7949]]></event>
+							<event_start><![CDATA[12:00:00]]></event_start>
+							<event_end><![CDATA[15:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr Robert B. Moreau]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7941]]></column>
+							<event><![CDATA[7949]]></event>
+							<event_start><![CDATA[09:00:00]]></event_start>
+							<event_end><![CDATA[11:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr Robert B. Moreau]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7936]]></column>
+							<event><![CDATA[7950]]></event>
+							<event_start><![CDATA[15:00:00]]></event_start>
+							<event_end><![CDATA[17:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr Michelle L. Reyes]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7937]]></column>
+							<event><![CDATA[7950]]></event>
+							<event_start><![CDATA[10:00:00]]></event_start>
+							<event_end><![CDATA[12:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr Michelle L. Reyes]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7937]]></column>
+							<event><![CDATA[7951]]></event>
+							<event_start><![CDATA[14:00:00]]></event_start>
+							<event_end><![CDATA[16:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr. Sarah Johnson]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7940]]></column>
+							<event><![CDATA[7951]]></event>
+							<event_start><![CDATA[09:00:00]]></event_start>
+							<event_end><![CDATA[11:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr. Sarah Johnson]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7936]]></column>
+							<event><![CDATA[7943]]></event>
+							<event_start><![CDATA[10:00:00]]></event_start>
+							<event_end><![CDATA[12:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr.Jena Lambert]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7935]]></column>
+							<event><![CDATA[7943]]></event>
+							<event_start><![CDATA[15:00:00]]></event_start>
+							<event_end><![CDATA[17:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr.Jena Lambert]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7934]]></column>
+							<event><![CDATA[7943]]></event>
+							<event_start><![CDATA[08:00:00]]></event_start>
+							<event_end><![CDATA[11:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[Dr.Jena Lambert]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7940]]></column>
+							<event><![CDATA[7942]]></event>
+							<event_start><![CDATA[15:00:00]]></event_start>
+							<event_end><![CDATA[19:00:00]]></event_end>
+							<user_id><![CDATA[1]]></user_id>
+							<description><![CDATA[Dr. Greg House]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7937]]></column>
+							<event><![CDATA[7942]]></event>
+							<event_start><![CDATA[12:00:00]]></event_start>
+							<event_end><![CDATA[14:00:00]]></event_end>
+							<user_id><![CDATA[1]]></user_id>
+							<description><![CDATA[Dr. Greg House]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7936]]></column>
+							<event><![CDATA[7942]]></event>
+							<event_start><![CDATA[08:00:00]]></event_start>
+							<event_end><![CDATA[10:00:00]]></event_end>
+							<user_id><![CDATA[4]]></user_id>
+							<description><![CDATA[Dr. Greg House]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[7934]]></column>
+							<event><![CDATA[7942]]></event>
+							<event_start><![CDATA[14:00:00]]></event_start>
+							<event_end><![CDATA[16:00:00]]></event_end>
+							<user_id><![CDATA[2]]></user_id>
+							<description><![CDATA[Dr. Greg House]]></description>
+						</timeslot>
+								</channel>
+		</rss>
+		

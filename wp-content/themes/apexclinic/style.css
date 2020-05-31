@@ -1,0 +1,81 @@
+/*
+Theme Name: ApexClinic
+Theme URI: https://themes.radiantthemes.com/apexclinic/
+Author: RadiantThemes
+Author URI: https://themeforest.net/user/radiantthemes
+Description: ApexClinic is an extremely versatile and fully mobile responsive WordPress Medical Theme which is apt for medical professionals, especially doctors, physicians, pediatric consultants, dental surgeons/dentists and for all healthcare professionals. This WordPress Medical Theme has been custom designed, keeping in mind the website design requirement of diverse medical fraternity, who are looking for a robust online/web platform. ApexClinic Medical WordPress Theme is perhaps one of the best solutions for all healthcare professionals, be it hospitals, dental clinics, pediatricians, medical consultants etc. who are in search of a dynamic website of their own.
+Version: 1.2.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: apexclinic
+Tags:  medical, clinic, pharmacy, health, theme-options, left-sidebar, right-sidebar, header options, sticky post, translation ready, threaded comments
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+ApexClinic is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+.wraper_header.style-twelve .nav > [class*="menu-"] > ul.menu > li > ul > li > a{
+	text-transform: capitalize !important;
+    line-height: 8px !important;
+	    padding: 8px 14px;
+}
+.wraper_header.style-twelve .nav > [class*="menu-"] > ul.menu > li > ul > li > a:hover{
+	background:#14a09d;
+	color: #fff;
+	padding-left: 23px;
+}
+.imgLiii figure figcaption{
+	display: none;
+}
+.wpcf7-form-control-wrap input, .wpcf7-form-control-wrap select{
+	padding-left: 16px !important;
+}
+.wpcf7-form-control-wrap textarea{
+	padding-left: 16px !important;
+	height: 114px !important;
+	padding-top: 5px !important;
+}
+#menu-all-departments>li>a:before{
+	background-color: #184959 !important;
+}
+#menu-item-8492>ul{
+	width: 255px;
+}
+#menu-footer-specialities>li{
+	float:left;
+	width: 50%;
+	margin-bottom:5px;
+}
+#menu-footer-facialities>li{
+	float:left;
+	width: 50%;
+	margin-bottom:5px;
+}
+.but a{
+	background-image: none !important;
+	font-size: 13px;
+    font-weight: 500;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+.but1 a{
+	background-image: none !important;
+	font-size: 13px;
+    font-weight: 500;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+.but3 a{
+	background-image: none !important;
+	font-size: 13px;
+    font-weight: 500;
+	border-color: #fff  !important;
+	text-transform: uppercase;
+}
+.mission{
+    font-size: 20px;
+	line-height: 35px;
+	padding-right: 142px;
+}
